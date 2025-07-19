@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Devesh Rai 
 
-<!--
-**devesshhh/devesshhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Engineering graduate with a strong passion for Data Science, Machine Learning Engineering, and Cloud Technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+* **AWS Certified Solutions Architect - Associate** (preparing for certification)
+* Advanced MLOps practices with **MLflow** and **Databricks**
+* Scalable Data Engineering with **PySpark** on **Microsoft Fabric**
+
+### 💬 Ask me about
+* Data Engineering & Pipelines (Microsoft Fabric, Databricks)
+* Machine Learning & MLOps (PySpark, MLflow, AutoML)
+* Cloud Architecture (AWS, Azure)
+* Full-stack Development (.NET Web API, Angular 17, SQL Server)
+
+### 📫 How to reach me
+* Email: [deveshrai162@gmail.com](mailto:deveshrai162@gmail.com)
+* LinkedIn: [Devesh Rai](https://www.linkedin.com/in/devesh-rai-544437230/) *(Please double-check and update this with your exact LinkedIn profile URL!)*
+
+---
+
+### 💻 Tech Stack:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/fabric/)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/pyspark/)
+[![MLflow](https://img.shields.io/badge/MLflow-0087BD?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+---
+
+### 📊 GitHub Stats 📊
+
+[![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devesshhh&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+---
