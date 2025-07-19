@@ -14,8 +14,9 @@
     </a>&nbsp;&nbsp;
 </p>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
-
+<a href="https://github.com/devesshhh">
+  <img src="https://komarev.com/ghpvc/?username=devesshhh&color=blue" width="180" alt="GitHub Profile Views">
+</a>
 ---
 
 <p style="font-size: 14px;">
