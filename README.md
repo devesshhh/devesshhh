@@ -7,8 +7,10 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://devesh-rai.vercel.app/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username)
 </p>
----
+
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
+
+---
 
 <p style="font-size: 14px;">
   🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
