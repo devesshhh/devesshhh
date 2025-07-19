@@ -1,14 +1,16 @@
-# Hi 👋, I'm Devesh Rai
+# Hi 👋, I'm Devesh Rai 
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
+
+## <p align="center"> <img src=https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=4070F4¢er=true&vCenter=true&width=600&lines=Building+ML+Pipelines;Machine+Learning+Engineering;Data+Engineering+Excellence;Cloud+Solutions+Architecting;Developing+Full-Stack+Solutions" alt="Typing SVG" /> 
 
 A Computer Engineering graduate with a strong passion for Data Science, Machine Learning Engineering, and Cloud Technologies.
 
 ---
 
-### 🌱 I’m currently learning: **AWS Certified Solutions Architect - Associate** / **Advanced MLOps (MLflow, Databricks)** / **Scalable Data Engineering on Microsoft Fabric**
+### 🌱 I’m currently learning: **AWS Certified Solutions Architect - Associate** / **Advanced MLOps** / **Scalable Data Engineering on Microsoft Fabric**
 
-### 💬 Ask me about: **Data Engineering** / **Machine Learning** / **Cloud (AWS, Azure)** / **Full-stack Development (.NET, Angular)**
+### 💬 Ask me about: **Data Engineering & Pipelines** / **Machine Learning & MLOps** / **Cloud (AWS, Azure)** / **Full-stack Development**
 
 ### 📫 How to reach me
 * Email: [deveshrai162@gmail.com](mailto:deveshrai162@gmail.com)
