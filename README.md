@@ -14,9 +14,7 @@
     </a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
-</p>
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
 
 ---
 
