@@ -1,5 +1,5 @@
 <p align="center"><h1>Hi 👋, I'm Devesh Rai</h1></p>
-
+<h1 align="center" class="heading-element" dir="auto"> Hi 👋, I'm Shlok Prajapati </h1>
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Learning+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+%2B%2F%3E;%3C+Working+with+.NET+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt="Typing SVG" style="max-width: 100%;" /> </p>
