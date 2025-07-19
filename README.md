@@ -15,7 +15,7 @@ A Computer Engineering graduate with a strong passion for Data Science, Machine 
 
 ### 🌱 I’m currently learning: **Cloud** / **Machine Learning** / **Data Engineering**
 
-### 💬 Ask me about: **MLOps & AutoML** / **Cloud (AWS, Azure)** / **Data Engineering (Fabric, Databricks, Unity Catalog, Feature Store)** / **Full-stack (.NET, Angular)**
+### 💬 Ask me about: **MLOps & AutoML** / **Cloud (AWS, Azure)** / **Data Engineering (Fabric, Databricks)** / **Full-stack (.NET, Angular)**
 
 ---
 
@@ -40,7 +40,11 @@ A Computer Engineering graduate with a strong passion for Data Science, Machine 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
-[![MLOps](https://img.shields.io/badge/MLOps-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)](https://www.mlflow.org/docs/latest/llms/llm-mlops.html) [![AutoML](https://img.shields.io/badge/AutoML-green?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html) [![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store) ---
+[![MLOps](https://img.shields.io/badge/MLOps-blueviolet?style=for-the-badge&logo=databricks&logoColor=white)](https://www.mlflow.org/docs/latest/llms/llm-mlops.html)
+[![AutoML](https://img.shields.io/badge/AutoML-green?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
+[![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store)
+
+---
 
 <details>
   <summary><p align="center"><h3>📊 My GitHub Stats 📊</h3></p></summary>
@@ -51,5 +55,11 @@ A Computer Engineering graduate with a strong passion for Data Science, Machine 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=default&hide_border=true)](https://git.io/streak-stats)
   </p>
 </details>
+
+---
+
+### 🚀 Pinned Repositories
+
+*(You can pin your most impressive projects like 'Football Performance Analytics', 'Pharmacy Management System', 'Pet Cuddle O Tron' directly from your GitHub profile settings. These will appear below this section automatically.)*
 
 ---
