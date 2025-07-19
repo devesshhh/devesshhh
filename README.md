@@ -27,6 +27,8 @@
   <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 
+### 📫 How to reach me
+* Email: [deveshrai162@gmail.com](mailto:deveshrai162@gmail.com)
 ---
 
 ### 💻 Tech Stack:
