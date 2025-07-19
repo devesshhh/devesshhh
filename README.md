@@ -2,7 +2,7 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
 
-## <p align="center"> <img src=https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=4070F4¢er=true&vCenter=true&width=600&lines=Building+ML+Pipelines;Machine+Learning+Engineering;Data+Engineering+Excellence;Cloud+Solutions+Architecting;Developing+Full-Stack+Solutions" alt="Typing SVG" /> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&duration=4000&pause=1000&color=4070F4&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines;Machine+Learning+Engineering;Data+Engineering+Excellence;Cloud+Solutions+Architecting;Developing+Full-Stack+Solutions" alt="Typing SVG" /> </p>
 
 A Computer Engineering graduate with a strong passion for Data Science, Machine Learning Engineering, and Cloud Technologies.
 
