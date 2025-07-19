@@ -9,7 +9,7 @@
     <a href="https://devesh-rai.vercel.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Devesh Rai | Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=vercel&amp;logoColor=white" style="max-width: 100%;">
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/your_instagram_username" rel="nofollow">
+    <a href="https://www.instagram.com/devesshhh7" rel="nofollow">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Devesh Rai | Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&amp;logoColor=white" style="max-width: 100%;">
     </a>&nbsp;&nbsp;
 </p>
