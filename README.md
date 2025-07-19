@@ -2,20 +2,24 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Always+Learning+%2B%2F%3E;%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Mastering+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+Solutions+%2B%2F%3E;%3C+Diving+into+AWS+S3+%2B%2F%3E;%3C+Building+with+.NET+and+Angular+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt="Typing SVG" style="max-width: 100%;" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Learning+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+%2B%2F%3E;%3C+Working+with+.NET+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt="Typing SVG" style="max-width: 100%;" /> </p>
 
 <p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-rai-544437230/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://devesh-rai.vercel.app/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username)
 </p>
-
-A Computer Engineering graduate with a strong passion for Data Science, Machine Learning Engineering, and Cloud Technologies.
 
 ---
 
-### 🌱 I’m currently learning: **Cloud** / **Machine Learning** / **Data Engineering**
-
-### 💬 Ask me about: **MLOps & AutoML** / **Cloud (AWS, Azure)** / **Data Engineering (Fabric, Databricks)** / **Full-stack (.NET, Angular)**
+<p style="font-size: 14px;">
+  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
+<p style="font-size: 14px;">
+  💬 Ask me about: <strong style="color:#A177FE;">MLOps & AutoML</strong> / <strong style="color:#A177FE;">Cloud (AWS, Azure)</strong> / <strong style="color:#A177FE;">Data Engineering (Fabric, Databricks)</strong> / <strong style="color:#A177FE;">Full-stack (.NET, Angular)</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
 
 ---
 
@@ -55,11 +59,5 @@ A Computer Engineering graduate with a strong passion for Data Science, Machine 
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=default&hide_border=true)](https://git.io/streak-stats)
   </p>
 </details>
-
----
-
-### 🚀 Pinned Repositories
-
-*(You can pin your most impressive projects like 'Football Performance Analytics', 'Pharmacy Management System', 'Pet Cuddle O Tron' directly from your GitHub profile settings. These will appear below this section automatically.)*
 
 ---
