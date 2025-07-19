@@ -15,8 +15,9 @@
 </p>
 
 <a href="https://github.com/devesshhh">
-  <img src="https://komarev.com/ghpvc/?username=devesshhh&color=blue" width="180" alt="GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=devesshhh&color=blue" width="150" alt="Profile Views">
 </a>
+
 ---
 
 <p style="font-size: 14px;">
