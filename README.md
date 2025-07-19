@@ -44,6 +44,8 @@
 [![AutoML](https://img.shields.io/badge/AutoML-green?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
 [![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store)
 
+---
+
 <details>
   <summary><p align="center"><h3>📊 My GitHub Stats 📊</h3></p></summary>
   <br/>
