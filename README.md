@@ -19,16 +19,21 @@
 ---
 
 <p style="font-size: 14px;">
-  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
-</p>
-<p style="font-size: 14px;">
-  💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 
-### 📫 How to reach me
-* Email: [deveshrai162@gmail.com](mailto:deveshrai162@gmail.com)
+<p style="font-size: 14px;">
+  💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
+
+<p style="font-size: 14px;">
+  📫 How to reach me: <strong style="color:#A177FE;">deveshrai162@gmail.com</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
+
+
 ---
 
 ### 💻 Tech Stack:
