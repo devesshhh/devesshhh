@@ -10,18 +10,14 @@
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=devesshhh&color=blue)](https://github.com/devesshhh)
 
----
-
 <p style="font-size: 14px;">
   🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
   <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 <p style="font-size: 14px;">
-  💬 Ask me about: <strong style="color:#A177FE;">MLOps & AutoML</strong> / <strong style="color:#A177FE;">Cloud (AWS, Azure)</strong> / <strong style="color:#A177FE;">Data Engineering (Fabric, Databricks)</strong> / <strong style="color:#A177FE;">Full-stack (.NET, Angular)</strong>
+  💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
   <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
-
----
 
 ### 💻 Tech Stack:
 
@@ -48,8 +44,6 @@
 [![AutoML](https://img.shields.io/badge/AutoML-green?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html)
 [![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store)
 
----
-
 <details>
   <summary><p align="center"><h3>📊 My GitHub Stats 📊</h3></p></summary>
   <br/>
@@ -59,5 +53,3 @@
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=default&hide_border=true)](https://git.io/streak-stats)
   </p>
 </details>
-
----
