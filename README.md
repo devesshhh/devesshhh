@@ -27,7 +27,8 @@
 </p>
 
 <p style="font-size: 14px;">
-  💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
+  💬 Ask me about: <
+strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
   <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 
@@ -62,23 +63,18 @@
 
 ---
 
-<details align="center" open="">
-  <summary><h3> 📊 My GitHub Stats 📊 </h3></summary>
-  <br>
-  <p>
-    <a href="https://github-readme-stats.vercel.app/api?username=devesshhh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Devesh's GitHub Stats"/>
-    </a>
+<div align="center">
+  <details>
+    <summary>📊 Click to View My GitHub Stats</summary>
     <br>
-    <a href="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=default&hide_border=true&cache_bust=123">
-      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=default&hide_border=true&cache_bust=123" alt="GitHub Streak"/>
-    </a>
+    
+    ![devesshhh's Stats](https://github-readme-stats.vercel.app/api?username=devesshhh&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
     <br>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&layout=compact&theme=default&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-    </a>
-  </p>
-  <br>
-</details>
+    ![devesshhh's Streak](https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=vue-dark&hide_border=true)
+    <br>
+    ![devesshhh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+    
+  </details>
+</div>
 
 ---
