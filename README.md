@@ -20,25 +20,28 @@
 
 ---
 
-<p style="font-size: 14px;">
-  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
-</p>
-
-<p style="font-size: 14px;">
-  💬 Ask me about: <
-strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
-</p>
-
-<p dir="auto">📫 How to reach me <strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></p>
+<table>
+  <tr>
+    <td>🌱 I’m currently learning:</td>
+    <td><strong style="color:#A177FE;">Cloud, ML, Data</strong></td>
+    <td width="100%" align="right"><img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20"></td>
+  </tr>
+  <tr>
+    <td>💬 Ask me about:</td>
+    <td><strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong></td>
+    <td width="100%" align="right"><img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20"></td>
+  </tr>
+  <tr>
+    <td>📫 How to reach me:</td>
+    <td colspan="2"><strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/fabric/)
