@@ -62,7 +62,7 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 [![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store)
 
 ---
-
+![devesshhh's Streak]()
 <div align="center">
   <details>
     <summary>📊 GitHub Stats 📊</summary>
@@ -70,8 +70,8 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="devesshhh's Stats" />
       <br/>
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=vue-dark&hide_border=true" alt="devesshhh's Streak" /> -->
-<!--       <br/> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=dark&hide_border=true" alt="devesshhh's Streak" />
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="devesshhh's Top Languages" />
     </p>
   </details>
