@@ -5,6 +5,7 @@
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/devesh-rai-544437230/" rel="nofollow">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devesh Rai | LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+
     </a>&nbsp;&nbsp;
     <a href="https://devesh-rai.vercel.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Devesh Rai | Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=vercel&amp;logoColor=white" style="max-width: 100%;">
@@ -65,7 +66,7 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 
 <div align="center">
   <details>
-    <summary>📊 Click to View GitHub Stats</summary>
+    <summary>📊 GitHub Stats 📊</summary>
     <br>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
@@ -81,13 +82,10 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 
 <div align="center">
   <details>
-    <summary>🏆 Click to View GitHub Trophies</summary>
+    <summary>🏆 GitHub Trophies 🏆</summary>
     <br>
     <p>
       <img src="https://github-trophies.vercel.app/?username=devesshhh&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </p>
   </details>
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=devesshhh&icon=0&color=0)](https://visitcount.itsvg.in)
