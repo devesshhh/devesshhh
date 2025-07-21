@@ -20,23 +20,15 @@
 
 ---
 
-<table>
-  <tr>
-    <td>🌱 I’m currently learning:</td>
-    <td><strong style="color:#A177FE;">Cloud, ML, Data</strong></td>
-    <td width="100%" align="right"><img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20"></td>
-  </tr>
-  <tr>
-    <td>💬 Ask me about:</td>
-    <td><strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong></td>
-    <td width="100%" align="right"><img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20"></td>
-  </tr>
-  <tr>
-    <td>📫 How to reach me:</td>
-    <td colspan="2"><strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></td>
-  </tr>
-</table>
-
+<p style="font-size: 14px;">
+  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
+<p style="font-size: 14px;">
+  💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+</p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></p>
 ---
 
 ### 💻 Tech Stack:
