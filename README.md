@@ -62,7 +62,7 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 [![Feature Store](https://img.shields.io/badge/Feature_Store-orange?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/product/feature-store)
 
 ---
-![devesshhh's Streak]()
+
 <div align="center">
   <details>
     <summary>📊 GitHub Stats 📊</summary>
