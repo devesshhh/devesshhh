@@ -70,8 +70,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Devesh's GitHub Stats"/>
     </a>
     <br>
-    <a href="https://streak-stats.demolab.com/demo/?user=devesshhh&theme=default&hide_border=true">
-      <img src="https://streak-stats.demolab.com/demo/?user=devesshhh&theme=default&hide_border=true" alt="GitHub Streak"/>
+    <a href="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=default&hide_border=true">
+      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=default&hide_border=true" alt="GitHub Streak"/>
     </a>
     <br>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&layout=compact&theme=default&hide_border=true">
