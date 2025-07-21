@@ -38,6 +38,7 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 ### 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/fabric/)
@@ -75,6 +76,8 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
     </p>
   </details>
 </div>
+
+---
 
 <div align="center">
   <details>
