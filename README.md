@@ -63,18 +63,16 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 
 ---
 
-<div align="center">
-  <details>
-    <summary>📊 GitHub Stats 📊</summary>
-    <br/>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="devesshhh's Stats" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=dark&hide_border=true" alt="devesshhh's Streak" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="devesshhh's Top Languages" />
-    </p>
-  </details>
-</div>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=devesshhh&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=devesshhh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devesshhh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
