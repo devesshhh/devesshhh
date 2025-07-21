@@ -2,17 +2,16 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Learning+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+%2B%2F%3E;%3C+Working+with+.NET+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt="Typing SVG" style="max-width: 100%;" /> </p>
 
-<p align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/devesh-rai-544437230/" rel="nofollow">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devesh Rai | LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-
-    </a>&nbsp;&nbsp;
-    <a href="https://devesh-rai.vercel.app/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Devesh Rai | Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=vercel&amp;logoColor=white" style="max-width: 100%;">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/devesshhh7" rel="nofollow">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Devesh Rai | Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-    </a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/devesh-rai-544437230/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devesh Rai | LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://devesh-rai.vercel.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Devesh Rai | Portfolio">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/devesshhh7" rel="nofollow">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Devesh Rai | Instagram">
+  </a>
 </p>
 
 <a href="https://github.com/devesshhh">
