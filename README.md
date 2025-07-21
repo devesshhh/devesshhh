@@ -20,16 +20,15 @@
 
 ---
 
-<p style
-="font-size: 14px;">
-  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+<p style="font-size: 14px;">
+  🌱 I’m currently learning: <strong style="color:#A177FE;">Cloud, ML, Data</strong>
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 
 <p style="font-size: 14px;">
-  💬 Ask me about: <
+  💬 Ask me about: <
 strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
-  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
+  <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
 
 <p dir="auto">📫 How to reach me <strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></p>
@@ -63,16 +62,29 @@ strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
 
 ---
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=devesshhh&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devesshhh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <details>
+    <summary>📊 Click to View GitHub Stats</summary>
+    <br>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+    </p>
+  </details>
+</div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=devesshhh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <details>
+    <summary>🏆 Click to View GitHub Trophies</summary>
+    <br>
+    <p>
+      <img src="https://github-trophies.vercel.app/?username=devesshhh&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </p>
+  </details>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devesshhh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
