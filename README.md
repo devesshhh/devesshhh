@@ -68,7 +68,7 @@ https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&l
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
       <br/>
-      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" />ss
+      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" />
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
     </p>
