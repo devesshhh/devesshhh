@@ -1,6 +1,7 @@
 <h1 align="center" class = "heading-element" dir = "auto">Hi 👋, I'm Devesh Rai</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Learning+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+%2B%2F%3E;%3C+Working+with+.NET+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt="Typing SVG" style="max-width: 100%;" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=A177FE&center=true&vCenter=true&width=650&lines=%3C+Developing+ML+Pipelines+%2B%2F%3E;%3C+Learning+MLOps+%2B%2F%3E;%3C+Exploring+AutoML+%2B%2F%3E;%3C+Architecting+Cloud+%2B%2F%3E;%3C+Working+with+.NET+%2B%2F%3E;%3C+Scaling+with+PySpark+%2B%2F%3E" alt
+="Typing SVG" style="max-width: 100%;" /> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devesh-rai-544437230/" rel="nofollow">
@@ -67,7 +68,7 @@ https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&l
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
       <br/>
-      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" />ss
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesshhh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
     </p>
