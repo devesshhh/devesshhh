@@ -29,6 +29,7 @@
   💬 Ask me about: <strong style="color:#A177FE;">ML, Data, Cloud, .NET</strong>
   <img src="https://media.tenor.com/images/041519499118425c6318b953417b271a/tenor.gif" height="20" align="right">
 </p>
+
 <p dir="auto">📫 How to reach me <strong><a href="mailto:deveshrai162@gmail.com">deveshrai162@gmail.com</a></strong></p>
 
 ---
