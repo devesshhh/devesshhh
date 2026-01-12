@@ -67,7 +67,7 @@ https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&l
     <summary>📊 GitHub Stats 📊</summary>
     <br>
     <p>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devesshhh&theme=dark" alt="GitHub Streak" /></a>
+      <img src="https://streak-stats.demolab.com?user=devesshhh&theme=dark" alt="GitHub Streak" /></a>
       <br/>
 <!--       <img src="https://github-readme-streak-stats.vercel.app/api?user=devesshhh&theme=dark&hide_border=false" alt="GitHub Streak" /> -->
       <br/>
