@@ -10,9 +10,9 @@
   <a href="https://devesh-rai.vercel.app/" rel="nofollow">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Devesh Rai | Portfolio">
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/devesshhh7" rel="nofollow">
+  <!-- <a href="https://www.instagram.com/devesshhh7" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Devesh Rai | Instagram">
-  </a>
+  </a> -->
 </p>
 
 <a href="https://github.com/devesshhh">
